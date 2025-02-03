@@ -8,8 +8,8 @@
 ---
 
 ### 🌸 About Me  
-✨ **Passionate about fitness, business, and creativity.**  
-💪 **Managing a fitness Instagram page & building my e-commerce store.**  
+✨ **Passionate about coding, business, and fitness.**  
+💪 **Building my ecommerce business.**  
 🚀 **Always exploring new ideas and learning new skills!**  
 
 ---
@@ -19,7 +19,7 @@
   <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="250px">
 </p>
 
-💖 Pink lover | ✨ Minimalist | 🎶 Music Addict | 🌎 Dreaming Big  
+💖 Tech lover | ✨ Minimalist | 🌎 Dreaming Big  
 
 ---
 
@@ -40,8 +40,8 @@
 ---
 
 ### 🌸 Let's Connect!  
-🌟 **Instagram:** [@yourfitnesspage](https://instagram.com/yourfitnesspage)  
-📩 **Email:** tanishka@example.com  
+🌟 **Instagram:** [tashi.idc](https://instagram.com/tashi.idc)  
+📩 **Email:** tashukhandelwal27@gmail.com  
 
 ---
 
