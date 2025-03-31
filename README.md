@@ -1,7 +1,7 @@
 # Hi, I'm Tanishka Khandelwal! 👋
 
 **🚀 Tech Enthusiast | 🏢 Entrepreneur | 💡 AI & Web Developer**  
-📍 Delhi, India | 📧 [Email](mailto:tashukhandelwal27@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/tanishka-khandelwal)
+📍 Delhi, India | 📧 [Email](mailto:tashukhandelwal27@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/tanishka2712)
 
 ---
 
@@ -41,8 +41,8 @@ Conducted an in-depth case study on Zomato and developed a model integrating **A
 ---
 
 ## 📩 Connect With Me
-💼 [LinkedIn](https://www.linkedin.com/in/tanishka-khandelwal)  
-📧 [Email](mailto:tashukhandelwal27@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/tanishka2712)  
+📧 [Email](tashukhandelwal27@gmail.com)  
 🔗 [GitHub](https://github.com/tanishka-khandelwal)  
 
 Let's build something awesome together! 🚀
