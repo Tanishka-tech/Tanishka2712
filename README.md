@@ -11,7 +11,7 @@ I'm a highly motivated individual passionate about **AI, digital marketing, fron
 ---
 
 ## 💼 Work Experience
-- **Business Development Manager @ [Marketing Makhni](#)** (2024-Present) 📈
+- **Business Development Manager @ [Marketing Makhni](#)** (2024) 📈
 - **Founder @ [Shopify Store](#)** (2024) 🛍️
 - **Customer Acquisition Specialist @ [Sociyally](#)** (2024) 📊
 - **Campus Ambassador & R&D Head @ [Prajvalan](#)** (2025-Present) 🚀
