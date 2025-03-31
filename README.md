@@ -1,48 +1,52 @@
-# Tanishka2712
-<h1 align="center">Hey there, I'm Tanishka! 👋</h1>
+# Hi, I'm Tanishka Khandelwal! 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&height=50&lines=Fitness+Enthusiast+%F0%9F%A7%8D;E-commerce+Explorer+%F0%9F%9A%80;Content+Creator+%F0%9F%92%83" />
-</p>
+**🚀 Tech Enthusiast | 🏢 Entrepreneur | 💡 AI & Web Developer**  
+📍 Delhi, India | 📧 tashukhandelwal27@gmail.com | 🔗 [LinkedIn](#)
 
 ---
 
-### 🌸 About Me  
-✨ **Passionate about coding, business, and fitness.**  
-💪 **Building my ecommerce business.**  
-🚀 **Always exploring new ideas and learning new skills!**  
+## 🌟 About Me
+I'm a highly motivated individual passionate about **AI, digital marketing, front-end development, e-commerce, and startup growth.** With experience in influencer marketing, dropshipping, and tech innovation, I love turning ideas into impactful projects.
 
 ---
 
-### 🎨 Aesthetic Vibes  
-<p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="250px">
-</p>
-
-💖 Tech lover | ✨ Minimalist | 🌎 Dreaming Big  
-
----
-
-### 💻 Tech & Tools  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
-![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)  
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+## 💼 Work Experience
+- **Business Development Manager @ Marketing Makhni** (2024-Present) 📈
+- **Founder @ Shopify Store** (2024) 🛍️
+- **Customer Acquisition Specialist @ Sociyally** (2024) 📊
+- **Campus Ambassador & R&D Head @ Prajvalan** (2025-Present) 🚀
+- **Startup Experience @ Metalmate & WePaintLife** (2024) 🎨
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanishka123&show_icons=true&theme=tokyonight" width="400px">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanishka123&theme=tokyonight" width="400px">
-</p>
+## 💡 Projects
+### 1️⃣ [UniVerse - The Everything App](#)
+A tech platform designed to integrate multiple solutions into a seamless experience.
+
+### 2️⃣ [Hooked - AI-Powered Content Automation](#)
+Revolutionizing content creation by automating video editing and social media posts.
+
+### 3️⃣ [Zomato Flash (Product Prodigy NSUT)](#)
+AI-driven 10-minute meal delivery model for ultra-fast food delivery 🚀
+
+### 4️⃣ [Beacon (Shark Tank IIITD - BEACON)](#)
+A one-stop platform aggregating government schemes & benefits using Aadhaar & DigiLocker integration.
 
 ---
 
-### 🌸 Let's Connect!  
-🌟 **Instagram:** [tashi.idc](https://instagram.com/tashi.idc)  
-📩 **Email:** tashukhandelwal27@gmail.com  
+## 🛠️ Tech & Business Skills
+✅ Digital Marketing & Social Media Growth  
+✅ E-commerce (Shopify, Dropshipping)  
+✅ Front-End Development (HTML, CSS, JavaScript)  
+✅ AI Fundamentals, DSA in C++, Python, SQL  
+✅ Brand Collaborations & Influencer Marketing  
+✅ Startup & Business Development  
 
 ---
 
-✨ _"Hustle, dream, and make it happen!"_ ✨
+## 📩 Connect With Me
+💼 [LinkedIn](#)  
+📧 tashukhandelwal27@gmail.com  
+🔗 [GitHub](#)  
+
+Let's build something awesome together! 🚀
