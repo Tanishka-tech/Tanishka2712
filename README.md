@@ -1,7 +1,7 @@
 # Hi, I'm Tanishka Khandelwal! 👋
 
 **🚀 Tech Enthusiast | 🏢 Entrepreneur | 💡 AI & Web Developer**  
-📍 Delhi, India | 📧 tashukhandelwal27@gmail.com | 🔗 [LinkedIn](#)
+📍 Delhi, India | 📧 [Email](mailto:tashukhandelwal27@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/tanishka-khandelwal)
 
 ---
 
@@ -11,26 +11,25 @@ I'm a highly motivated individual passionate about **AI, digital marketing, fron
 ---
 
 ## 💼 Work Experience
-- **Business Development Manager @ Marketing Makhni** (2024-Present) 📈
-- **Founder @ Shopify Store** (2024) 🛍️
-- **Customer Acquisition Specialist @ Sociyally** (2024) 📊
-- **Campus Ambassador & R&D Head @ Prajvalan** (2025-Present) 🚀
-- **Startup Experience @ Metalmate & WePaintLife** (2024) 🎨
+- **Business Development Manager @ [Marketing Makhni](#)** (2024-Present) 📈
+- **Founder @ [Shopify Store](#)** (2024) 🛍️
+- **Customer Acquisition Specialist @ [Sociyally](#)** (2024) 📊
+- **Campus Ambassador & R&D Head @ [Prajvalan](#)** (2025-Present) 🚀
+- **Startup Experience @ [Metalmate & WePaintLife](#)** (2024) 🎨
 
 ---
 
 ## 💡 Projects
-### 1️⃣ [UniVerse - The Everything App](#)
-A tech platform designed to integrate multiple solutions into a seamless experience.
 
-### 2️⃣ [Hooked - AI-Powered Content Automation](#)
-Revolutionizing content creation by automating video editing and social media posts.
 
-### 3️⃣ [Zomato Flash (Product Prodigy NSUT)](#)
+### 3️⃣ [Zomato Flash (Product Prodigy NSUT)](https://docs.google.com/presentation/d/17qhYfMv7Z0OWwnZ5ka7HxItuxrWoeBv4/edit#slide=id.p3)
 AI-driven 10-minute meal delivery model for ultra-fast food delivery 🚀
 
-### 4️⃣ [Beacon (Shark Tank IIITD - BEACON)](#)
-A one-stop platform aggregating government schemes & benefits using Aadhaar & DigiLocker integration.
+
+### 5️⃣ [Zomato Case Study & AI-Driven Model](https://docs.google.com/document/d/1akEb1PytcuXjpp1xgCDGdpqkGzJYOsB4/edit)
+- [Zomato User Retention](https://drive.google.com/file/d/18YX7E6tDk75HFoWUq3uwV4F62FxDtTfI/view)
+- [Zomato Text Reviews](https://drive.google.com/file/d/1EgvWlkrqupn474ry0rPtfSaf3tVOtaRa/view)
+Conducted an in-depth case study on Zomato and developed a model integrating **AI-powered logistics, user retention strategies, group ordering, and revenue optimization.** Designed a blueprint for an advanced food delivery platform, incorporating **gamification and predictive analytics** to enhance user experience and business scalability.
 
 ---
 
@@ -45,8 +44,8 @@ A one-stop platform aggregating government schemes & benefits using Aadhaar & Di
 ---
 
 ## 📩 Connect With Me
-💼 [LinkedIn](#)  
-📧 tashukhandelwal27@gmail.com  
-🔗 [GitHub](#)  
+💼 [LinkedIn](https://www.linkedin.com/in/tanishka-khandelwal)  
+📧 [Email](mailto:tashukhandelwal27@gmail.com)  
+🔗 [GitHub](https://github.com/tanishka-khandelwal)  
 
 Let's build something awesome together! 🚀
