@@ -42,7 +42,7 @@ Conducted an in-depth case study on Zomato and developed a model integrating **A
 
 ## 📩 Connect With Me
 💼 [LinkedIn](https://www.linkedin.com/in/tanishka2712)  
-📧 [Email](tashukhandelwal27@gmail.com)  
+📧 [Email](mailto:tashukhandelwal27@gmail.com)  
 🔗 [GitHub](https://github.com/tanishka-khandelwal)  
 
 Let's build something awesome together! 🚀
